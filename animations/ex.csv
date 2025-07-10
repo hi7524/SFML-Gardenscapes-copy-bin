@@ -1,0 +1,13 @@
+ID	FPS	"LoopType (0: Single, 1: Loop)"			
+Run	10	1			
+					
+TEXTURE ID	LEFT	TOP	WIDTH	HEIGHT	"FLIPX (0:Fale, 1:True)"
+graphics/sprite_sheet.png	0	318	314	318	0
+graphics/sprite_sheet.png	341	318	314	318	0
+graphics/sprite_sheet.png	682	318	314	318	0
+graphics/sprite_sheet.png	1023	318	314	318	0
+graphics/sprite_sheet.png	1364	318	314	318	0
+graphics/sprite_sheet.png	1705	318	314	318	0
+graphics/sprite_sheet.png	2046	318	314	318	0
+graphics/sprite_sheet.png	2387	318	314	318	0
+graphics/sprite_sheet.png	2728	318	314	318	0
