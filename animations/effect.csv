@@ -1,5 +1,5 @@
 ID,FPS,"LoopType (0: Single, 1: Loop)		",,,
-Clear,10,0,,,
+Clear,35,0,,,
 "				",,,,,
 TEXTURE ID,LEFT,TOP,WIDTH,HEIGHT,"FLIPX (0:Fale, 1:True)"
 graphics/effects.png,0,0,64,64,0
@@ -8,3 +8,7 @@ graphics/effects.png,128,0,64,64,0
 graphics/effects.png,192,0,64,64,0
 graphics/effects.png,256,0,64,64,0
 graphics/effects.png,320,0,64,64,0
+graphics/effects.png,384,0,64,64,0
+graphics/effects.png,444,0,64,64,0
+graphics/effects.png,508,0,64,64,0
+graphics/effects.png,572,0,64,64,0
